@@ -10,7 +10,7 @@ console.log(information)
 // Задание 2:
 const height = 40;
 const width = 70;
-const area = 0.5 * height * width;
+const area = height * width;
 console.log(area)
 
 // Задание 3:
